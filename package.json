@@ -1,0 +1,16 @@
+{
+  "name": "@deskeen/web-builder-inline-json",
+  "version": "0.1.0",
+  "description": "Web Builder Module - Inline JSON files",
+  "author": "Morgan Schmiedt",
+  "license": "MIT",
+  "repository": "https://github.com/deskeen/web-builder-inline-json",
+  "keywords": [
+    "build",
+    "website",
+    "node.js",
+    "inline",
+    "json"
+  ],
+  "main": "src/module.js"
+}
